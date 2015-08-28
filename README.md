@@ -6,7 +6,8 @@
 
 ## some example code
 
-``` function pior (){
+``` 
+function pior (){
 	console.log("how are your?");
 	}
 ```
